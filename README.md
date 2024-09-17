@@ -84,3 +84,12 @@ graph LR
 Information-->Analysis-->Modeling-->Question
 ```
 
+## Study Schedule
+
+|    Date    |         Class         |                      My Own                       |
+| :--------: | :-------------------: | :-----------------------------------------------: |
+|  week 1-4  |  Basic Linux, Blast   |       Get familiar with docker, linux and R       |
+|  week 5-9  |   NGS Data analysis   |           Strictly following the class            |
+|  week 10   | Machine Learning & AI |  review python and strictly following the class   |
+| week 11-16 |     SCS analysis      | follow the class while fulfilling the extra tasks |
+
